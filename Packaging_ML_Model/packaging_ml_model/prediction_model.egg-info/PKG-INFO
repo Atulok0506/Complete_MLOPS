@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: prediction-model
+Version: 1.0.0
+Summary: Loan Classification Model
+Home-page: https://github.com/Atulok0506
+Author: Atul Kishore
+Author-email: atulstar900@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.9.0
+Description-Content-Type: text/markdown
+
+
